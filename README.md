@@ -1,0 +1,1 @@
+Este es mi primer repositorio. Estoy muy contento por ello que emoción. Aún me cuesta trabajo entenderle al git pero ahí vamos. Feliz día a la Vírgen de Guadalupe, reina de México y emperatriz de América, ruega por nosotros.
