@@ -6,7 +6,7 @@
 #define MONSTERS_FILE "C:/Users/santi/source/repos/poo itc2/monster/monsters.csv"
 
 using namespace std;
-//prueba
+//prueba 1
 
 // Regresa -1 si hay un error al leer el archivo o regresa
 // la cantidad de lineas de 0 a la cantidad de datos en el csv
